@@ -1,0 +1,26 @@
+Intrinsic parameters of left camera:
+
+Focal Length:          fc_left = [ 596.50933   605.32911 ] � [ 17.57494   19.06162 ]
+Principal point:       cc_left = [ 227.83151   261.05692 ] � [ 13.63509   8.38137 ]
+Skew:             alpha_c_left = [ 0.00000 ] � [ 0.00000  ]   => angle of pixel axes = 90.00000 � 0.00000 degrees
+Distortion:            kc_left = [ -0.17233   -0.87106   -0.00004   0.01891  0.00000 ] � [ 0.09265   0.69242   0.00338   0.00499  0.00000 ]
+
+
+Intrinsic parameters of right camera:
+
+Focal Length:          fc_right = [ 626.04128   626.52358 ] � [ 18.00642   18.48369 ]
+Principal point:       cc_right = [ 319.50000   239.50000 ] � [ 0.00000   0.00000 ]
+Skew:             alpha_c_right = [ 0.00000 ] � [ 0.00000  ]   => angle of pixel axes = 90.00000 � 0.00000 degrees
+Distortion:            kc_right = [ -0.36516   0.38361   0.00049   0.00414  0.00000 ] � [ 0.07229   0.34712   0.00350   0.00403  0.00000 ]
+
+
+Extrinsic parameters (position of right camera wrt left camera):
+
+Rotation vector:             om = [ -0.06991   -0.10764  -0.00253 ]
+Translation vector:           T = [ 82.82624   5.54511  12.65156 ]
+
+https://github.com/cabani/MaskedFace-Net
+
+https://blog.csdn.net/weixin_37818440/article/details/104519213
+
+https://zhuanlan.zhihu.com/p/31378836
